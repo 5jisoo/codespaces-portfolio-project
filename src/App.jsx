@@ -27,9 +27,9 @@ const siteProps = {
   name: "Jisoo Oh (Lucy Oh)",
   title: "Server Developer",
   email: "56earls@gmail.com",
-  gitHub: "https://github.com/5jisoo",
-  instagram: "https://www.instagram.com/_5jizzi/",
-  linkedIn: "https://www.linkedin.com/in/hihello-lucy/"
+  gitHub: "5jisoo",
+  instagram: "_5jizzi",
+  linkedIn: "hihello-lucy"
 };
 
 const primaryColor = "#4E567E";

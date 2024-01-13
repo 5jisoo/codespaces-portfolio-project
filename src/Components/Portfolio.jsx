@@ -33,13 +33,13 @@ const projectList = [
   {
     title: "POCHAK 📸",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static WebPOCHAK is a unique social media platform where users don't upload photos themselves; instead, friends capture moments centered around the user, naturally",
+      "POCHAK is a unique social media platform where users don't upload photos themselves; instead, friends capture moments centered around the user, naturally",
     url: "https://github.com/APPS-sookmyung/2023-POCHAK-server",
   },
   {
     title: "Web Development for Beginners",
     description:
-      "UniBond is an anonymous letter platform designed for individuals with rare and orphan diseases. Users can share their daily lives and express sincere feelings to each other through the medium of letters. The platform aims to assist users in finding empathetic friends and provides emotional support, fostering a sense of emotional stability.",
+      "UniBond is an anonymous letter platform designed for individuals with rare and orphan diseases.",
     url: "https://github.com/UniBond-jijijin/UniBond-server",
   },
 ];
