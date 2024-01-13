@@ -24,19 +24,18 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hi!! I'm studying Computer Science with a focus on backend development at Sookmyung Women's University. \n I'm interested in backend technologies, with a focus on Spring Boot and Cloud Computing.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Spring Boot",
+  "MySQL",
+  "Azure",
+  "AWS",
+  "Elastic Search"
 ];
 
 /**
