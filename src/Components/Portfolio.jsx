@@ -37,7 +37,7 @@ const projectList = [
     url: "https://github.com/APPS-sookmyung/2023-POCHAK-server",
   },
   {
-    title: "Web Development for Beginners",
+    title: "UniBond",
     description:
       "UniBond is an anonymous letter platform designed for individuals with rare and orphan diseases.",
     url: "https://github.com/UniBond-jijijin/UniBond-server",
